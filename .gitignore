@@ -1,0 +1,3 @@
+opt_fhem/**
+docker-compose.yml
+Dockerfile
